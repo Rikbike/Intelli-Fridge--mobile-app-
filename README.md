@@ -28,3 +28,32 @@ Después de iniciar sesión, se muestra la pantalla principal (home.dart). Desde
 
 ## Monitor de Temperatura y Humedad
 En la pantalla de temperatura (temperatura.dart), puedes visualizar la temperatura y humedad actual dentro de tu refrigerador. Estos datos se obtienen de un sensor DHT11 conectado a Firebase en tiempo real.
+
+## Notas y Recordatorios
+La sección de notas (notas.dart) permite a los usuarios registrar notas importantes y recordatorios sobre los productos almacenados en el refrigerador.
+
+## Gestión de Perfiles
+En la pantalla de perfiles (perfiles.dart), los usuarios pueden gestionar sus datos personales y preferencias.
+
+## Cámara
+La pantalla de cámara (CamaraScreen.dart) permite tomar fotos de los productos y almacenarlas en Firebase Storage para un fácil acceso y gestión visual.
+
+# Herramientas Utilizadas
+## Flutter
+Flutter es el framework principal utilizado para desarrollar la interfaz de usuario de la aplicación. Proporciona un entorno de desarrollo rápido y eficiente para aplicaciones multiplataforma.
+
+## Firebase
+Firebase se utiliza para la autenticación, almacenamiento en tiempo real de datos y almacenamiento de imágenes. Los servicios de Firebase empleados incluyen:
+
+- Firebase Authentication: Para la gestión de usuarios.
+- Firebase Realtime Database: Para almacenar y sincronizar datos de temperatura y humedad.
+- Firebase Storage: Para almacenar imágenes de productos.
+
+## Sensor DHT11
+El sensor DHT11 se utiliza para medir la temperatura y humedad dentro del refrigerador. Los datos del sensor se envían a Firebase, donde se actualizan en tiempo real y se muestran en la aplicación.
+
+## Funcionamiento de la Aplicación
+- 1.-Inicio de Sesión y Registro: Los usuarios pueden iniciar sesión o registrarse utilizando Firebase Authentication.
+- 2.-Monitor de Temperatura y Humedad: La aplicación muestra datos en tiempo real del sensor DHT11, permitiendo a los usuarios monitorear las condiciones del refrigerador.
+- 3.-Gestión de Notas y Productos: Los usuarios pueden registrar notas y tomar fotos de los productos para una gestión eficiente.
+- 4.-Gestión de Perfiles: Los usuarios pueden actualizar sus datos personales y preferencias desde la pantalla de perfiles.
