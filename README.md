@@ -16,7 +16,7 @@ La estructura principal del proyecto es la siguiente:
 - HomeScreen.dart
 - CamaraScreen.dart
 
-##Uso de la Aplicación
+## Uso de la Aplicación
 Inicio de Sesión
 Al iniciar la aplicación, se presenta la pantalla de inicio de sesión (LoginScreen.dart). Los usuarios pueden iniciar sesión con sus credenciales de Firebase Authentication.
 
