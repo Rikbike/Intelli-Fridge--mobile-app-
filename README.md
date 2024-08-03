@@ -4,8 +4,8 @@ Intelli Fridge es una aplicación que permite a los usuarios monitorear la tempe
 ## Estructura del Proyecto
 La estructura principal del proyecto es la siguiente:
 
-lib/
-// main.dart
+## lib/
+### main.dart
 ### firebase_options.dart
 ### pantallas/
 ### LoginScreen.dart
