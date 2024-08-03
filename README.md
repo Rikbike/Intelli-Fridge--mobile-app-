@@ -1,5 +1,5 @@
-# Intelli Fridge
-ntelli Fridge es una aplicación innovadora desarrollada con Flutter y Firebase, diseñada para ayudarte a gestionar y monitorear tu refrigerador de manera inteligente. Con esta aplicación, puedes registrar y visualizar dentr del refrigerador por medio de la camara al igual la temperatura y humedad dentro de tu refrigerador, así como registrar productos y notas importantes.
+# Intelli-Fridge
+Intelli-Fridge es una aplicación innovadora desarrollada con Flutter y Firebase, diseñada para ayudarte a gestionar y monitorear tu refrigerador de manera inteligente. Con esta aplicación, puedes registrar y visualizar dentr del refrigerador por medio de la camara al igual la temperatura y humedad dentro de tu refrigerador, así como registrar productos y notas importantes.
 
 ## Estructura del Proyecto
 La estructura principal del proyecto es la siguiente:
