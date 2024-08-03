@@ -53,7 +53,7 @@ Firebase se utiliza para la autenticación, almacenamiento en tiempo real de dat
 El sensor DHT11 se utiliza para medir la temperatura y humedad dentro del refrigerador. Los datos del sensor se envían a Firebase, donde se actualizan en tiempo real y se muestran en la aplicación.
 
 ## Funcionamiento de la Aplicación
-- 1.-Inicio de Sesión y Registro: Los usuarios pueden iniciar sesión o registrarse utilizando Firebase Authentication.
-- 2.-Monitor de Temperatura y Humedad: La aplicación muestra datos en tiempo real del sensor DHT11, permitiendo a los usuarios monitorear las condiciones del refrigerador.
-- 3.-Gestión de Notas y Productos: Los usuarios pueden registrar notas y tomar fotos de los productos para una gestión eficiente.
-- 4.-Gestión de Perfiles: Los usuarios pueden actualizar sus datos personales y preferencias desde la pantalla de perfiles.
+- Inicio de Sesión y Registro: Los usuarios pueden iniciar sesión o registrarse utilizando Firebase Authentication.
+- Monitor de Temperatura y Humedad: La aplicación muestra datos en tiempo real del sensor DHT11, permitiendo a los usuarios monitorear las condiciones del refrigerador.
+- Gestión de Notas y Productos: Los usuarios pueden registrar notas y tomar fotos de los productos para una gestión eficiente.
+- Gestión de Perfiles: Los usuarios pueden actualizar sus datos personales y preferencias desde la pantalla de perfiles.
