@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893540752041",
+    "firebase_url": "https://intelli-fridge-default-rtdb.firebaseio.com",
+    "project_id": "intelli-fridge",
+    "storage_bucket": "intelli-fridge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893540752041:android:9450d81eacaf0dead9a7b8",
+        "android_client_info": {
+          "package_name": "com.example.ragl.integreadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893540752041-50ltpa38f13b7jgs3a5j1id81m0vusjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOrwQiy8uJIweHGKdV391Yagyq3-ka9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893540752041-50ltpa38f13b7jgs3a5j1id81m0vusjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
