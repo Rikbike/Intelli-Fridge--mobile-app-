@@ -1,16 +1,17 @@
-# integreadora
+Intelli Fridge
+Intelli Fridge es una aplicación que permite a los usuarios monitorear la temperatura y humedad del refrigerador, gestionar perfiles, tomar notas y usar la cámara integrada. La aplicación se basa en Flutter y utiliza Firebase para la autenticación, la base de datos en tiempo real y Firestore.
 
-no reprobar
+Estructura del Proyecto
+La estructura principal del proyecto es la siguiente:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+lib/
+main.dart
+firebase_options.dart
+pantallas/
+LoginScreen.dart
+TemperaturaScreen.dart
+RegisterScreen.dart
+PerfilesScreen.dart
+NotasScreen.dart
+HomeScreen.dart
+CamaraScreen.dart
